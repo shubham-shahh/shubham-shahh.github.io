@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f43cc4c6.chunk.css",
-    "main.js": "/static/js/main.87c9e35a.chunk.js",
-    "main.js.map": "/static/js/main.87c9e35a.chunk.js.map",
+    "main.js": "/static/js/main.00158cb5.chunk.js",
+    "main.js.map": "/static/js/main.00158cb5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9557d920.js",
     "runtime-main.js.map": "/static/js/runtime-main.9557d920.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -19,7 +19,7 @@
     "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.svg",
     "static/media/codeEditor.ba945879.png": "/static/media/codeEditor.ba945879.png",
     "static/media/emotion.e92e314a.jpeg": "/static/media/emotion.e92e314a.jpeg",
-    "static/media/facerecognition2.4f9790e4.gif": "/static/media/facerecognition2.4f9790e4.gif",
+    "static/media/facerecognition3.204d58d8.gif": "/static/media/facerecognition3.204d58d8.gif",
     "static/media/style.css": "/static/media/pre.d4812f51.svg",
     "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
     "static/media/licenseplate2.cc64ecb2.gif": "/static/media/licenseplate2.cc64ecb2.gif",
@@ -31,6 +31,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.a0deb512.chunk.js",
     "static/css/main.f43cc4c6.chunk.css",
-    "static/js/main.87c9e35a.chunk.js"
+    "static/js/main.00158cb5.chunk.js"
   ]
 }
