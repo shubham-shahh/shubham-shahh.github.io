@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a6bd3cba.chunk.css",
-    "main.js": "/static/js/main.43be9cef.chunk.js",
-    "main.js.map": "/static/js/main.43be9cef.chunk.js.map",
+    "main.js": "/static/js/main.e96327e3.chunk.js",
+    "main.js.map": "/static/js/main.e96327e3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9557d920.js",
     "runtime-main.js.map": "/static/js/runtime-main.9557d920.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -16,6 +16,7 @@
     "static/js/2.ea0bb912.chunk.js.LICENSE.txt": "/static/js/2.ea0bb912.chunk.js.LICENSE.txt",
     "static/media/Shubham_Shah_Resume.86f1a5d1.pdf": "/static/media/Shubham_Shah_Resume.86f1a5d1.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/alg.65a139a9.gif": "/static/media/alg.65a139a9.gif",
     "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.svg",
     "static/media/codeEditor.ba945879.png": "/static/media/codeEditor.ba945879.png",
     "static/media/emotion.e92e314a.jpeg": "/static/media/emotion.e92e314a.jpeg",
@@ -31,6 +32,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.ea0bb912.chunk.js",
     "static/css/main.a6bd3cba.chunk.css",
-    "static/js/main.43be9cef.chunk.js"
+    "static/js/main.e96327e3.chunk.js"
   ]
 }
