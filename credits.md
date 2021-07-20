@@ -1,6 +1,6 @@
 # shubham-shahh.github.io
 
-This website is made with Love and several open-source projects/resources. Here I've mentioned all the projects/resources used to build the website. I would like to thank all the creators who's projects and resources helped me to make this portfolio.
+This website is made with Love and several open-source projects/resources. Here I've mentioned all the projects/resources used to build the website. While building this website, I've also contributed to some of the projects/resources mentioned below. I would like to thank all the creators who's projects and resources helped me to make this portfolio.
 
 **Note -** I've modified most of the resources based on my requirements
 
